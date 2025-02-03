@@ -1,0 +1,15 @@
+#COMANDO PARA JOGAR NO TERMINAL DO VSCODE <br>
+´´´npx tailwindcss -i ./src/input.css -o ./src/output.css --watch´´´
+<br>
+#O ARQUIVO DO PROJETO ESTÁ NA PASTA SRC, ELA TEM QUE ESTÁ NESSA PASTA PARA RODAR TUDO DIREITINHO<br>
+
+#LEMBRE-SE DE INSTALAR O NPM DO NODE JS, CASO O PERÇA PERMISSÃO UTILIZE O POWER SHELL<br>
+
+#1 ABRAR O POWER SHELL COMO ADMISTRADOR E EXECUTE ESSE COMANDO<br>
+#2<br>
+#PARA LIBERAR A INSTALAÇÃO DE SCRIPT<br>
+´´´Set-ExecutionPolicy RemoteSigned´´´<br>
+#PARA BLOQUEAR A INSTALAÇÃO DE SCRIPT/ E A EXECUÇÃO<br>
+´´´Set-ExecutionPolicy Restricted´´´<br>
+#PARA SABER SE ESTÁ PERMITINDO OU NÃO<br>
+´´´Get-ExecutionPolicy´´´<br>

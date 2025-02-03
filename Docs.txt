@@ -1,0 +1,38 @@
+############## Sobre as mudanças ##################
+output não roda bem se estiver com estilização que não são do tw, por isso que coloque as estilizações no input.
+
+
+
+
+
+
+########## PENDECIAS ############
+- programar formulário de fale conosco **adicionei a api form submit, mas n funcionou por estar em arquivo html 
+.                                        (testar quando estiver hospedado)
+
+- definir cores da página (texto, título e links) DO MODO NOTURNO
+- criar uma página para apresentação do ERP
+- padronizar tamanho das imagens no card
+- criar página de termos legais e privacidade                                ******** IMPORTANTE
+- mudar notícia e foto do card 5
+- ajeitar tamanho do botão enviar (pág fale conosco)
+- passar as imagens das páginas setores em um melhorador de qualidade 
+- definir conteúdo página Diversidade e Inclusão                            ********** IMPORTANTE
+- ajeitar responsividade
+- adicionar botão de modo noturno nas outras páginas                         ********* IMPORTANTE
+
+
+######### IDEIAS ##########
+
+-Fazer uma aba para gerenciar curriculo, candidato. Com banco de dados e etc......
+
+
+
+######## PALETA DE CORES USADA ATÉ AGORA ########
+
+Azul escuro para mini textos e título rodape: #0369a1
+Azul claro para títulos de card e botões: #5cd3ff
+Verde hover botão: #B1F901
+Azul escuro para títulos grandes; #061452
+background: #ebebea
+background color para seção destacada: #a6a6a6
